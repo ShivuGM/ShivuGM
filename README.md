@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Shivu G M
 
-🎯 **Aspiring Data Analyst | Forecasting & BI Enthusiast | Python • SQL • Power BI • Excel**  
+🎯 **Aspiring Data Analyst | Forecasting & BI Enthusiast | Python • SQL • Power BI • Excel • Tableau**  
 📍 Bengaluru, India | 📧 sgm8762@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shivu-g-m) | [GitHub](https://github.com/ShivuGM)
 
